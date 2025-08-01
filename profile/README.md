@@ -1,12 +1,36 @@
-## Hi there 👋
 
-<!--
+ 
 
-**Here are some ideas to get you started:**
+<table width="100%">
+ <tbody style="text-align:center">
+ <tr width="100%">
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+  
+  
+  <td>
+   
+[![Career](https://img.shields.io/badge/dynamic/json?color=blue&label=Career&query=$.years&url=https://oliota.herokuapp.com/career-years&logo=Coveralls)](https://oliota.com/cv)
+
+  </td>
+  
+  
+  <td>
+   
+[![Cursos ministrados](https://img.shields.io/badge/Courses%20taught-36-green?logo=sqlite&logoColor=white)](https://oliota.com/cursos)&nbsp;
+
+  </td>
+ </tr>
+ 
+</tbody>
+</table>
+
+
+ 
+<p align="center">
+  <img src="https://github.com/oliota/oliota/raw/main/img/svg/resume/resume_profile.svg" alt="GitHub Summary" />
+</p>
+
+
+
+---
+ 
